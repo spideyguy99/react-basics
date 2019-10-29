@@ -1,25 +1,18 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
+import Rectangle from './components/rectangle';
+import Block from './components/block';
+import Clicker from './components/clicker';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+      <div className="App">
+          <Rectangle/>
+          <Block backColor="purple" borderColor="black"/>
+          <Block backColor="black" borderColor="white"/>
+          <Block backColor="red" borderColor="purple"/>
+          <Clicker/>
+      </div>
   );
 }
 
