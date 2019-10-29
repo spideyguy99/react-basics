@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/spideyguy99/react-basics/static/css/main.a9a416fb.chunk.css",
+    "main.js": "/spideyguy99/react-basics/static/js/main.ae0fbaaa.chunk.js",
+    "main.js.map": "/spideyguy99/react-basics/static/js/main.ae0fbaaa.chunk.js.map",
+    "runtime-main.js": "/spideyguy99/react-basics/static/js/runtime-main.44169ce4.js",
+    "runtime-main.js.map": "/spideyguy99/react-basics/static/js/runtime-main.44169ce4.js.map",
+    "static/js/2.e368de84.chunk.js": "/spideyguy99/react-basics/static/js/2.e368de84.chunk.js",
+    "static/js/2.e368de84.chunk.js.map": "/spideyguy99/react-basics/static/js/2.e368de84.chunk.js.map",
+    "index.html": "/spideyguy99/react-basics/index.html",
+    "precache-manifest.b6e6fc821a94ff681213ca27f6e5a0ec.js": "/spideyguy99/react-basics/precache-manifest.b6e6fc821a94ff681213ca27f6e5a0ec.js",
+    "service-worker.js": "/spideyguy99/react-basics/service-worker.js",
+    "static/css/main.a9a416fb.chunk.css.map": "/spideyguy99/react-basics/static/css/main.a9a416fb.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.44169ce4.js",
+    "static/js/2.e368de84.chunk.js",
+    "static/css/main.a9a416fb.chunk.css",
+    "static/js/main.ae0fbaaa.chunk.js"
+  ]
+}
